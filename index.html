@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <title>Apex Legends</title>
+    <link rel="stylesheet" href="estilo.css">
+  </head>
+  <body>
+
+    <header>
+
+    </header>
+
+    <section>
+
+    </section>
+    <script type="text/javascript">
+
+      var cabecera = document.querySelector('header');
+      var section = document.querySelector('section');
+      var solicitud = new XMLHttpRequest();
+
+      solicitud.open('GET','apexito.json');
+      solicitud.responseType = 'json';
+      solicitud.send();
+
+
+      solicitud.onload = function(){
+
+        var ApexLegends = solicitud.response;
+        poblarCabecera(ApexLegends);
+        generarContenido(ApexLegends);
+    }
+
+
+      function poblarCabecera(ApexLegends){
+
+        var miTitulo = document.createElement('h1');
+        var miPersonaje = document.createElement('h3');
+        miTitulo.textContent = ApexLegends['title'];
+        miPersonaje.textContent = ApexLegends['personajes'];
+
+        cabecera.appendChild(miTitulo);
+        cabecera.appendChild(miPersonaje);
+      }
+
+      function generarContenido(ApexLegends){
+        for (var i = 0; i < ApexLegends['fichas'].length; i++) {
+          var ficha = document.createElement('article');
+          var miH4 = document.createElement('h4');
+          var imagen = document.createElement('img');
+          var miPara1 = document.createElement('h4');
+          var miPara2 = document.createElement('p');
+          var miPara3 = document.createElement('p');
+          var miPara4 = document.createElement('p');
+          var miPara5 = document.createElement('p');
+          var miPara6 = document.createElement('p');
+          var miPara7 = document.createElement('p');
+          var miPara8 = document.createElement('p');
+
+          miH4.textContent = ApexLegends['fichas'][i].nombre;
+          imagen.src = ApexLegends['fichas'][i].urlImagen;
+          imagen.width = "500";
+          miPara1.textContent = ApexLegends['fichas'][i].descripcion;
+          miPara2.textContent = ApexLegends['fichas'][i].historia;
+          miPara3.textContent = ApexLegends['fichas'][i].nombrereal;
+          miPara4.textContent = ApexLegends['fichas'][i].edad;
+          miPara5.textContent = ApexLegends['fichas'][i].planetanatal;
+          miPara6.textContent = ApexLegends['fichas'][i].habilidadtactica;
+          miPara7.textContent = ApexLegends['fichas'][i].habilidadpasiva;
+          miPara8.textContent = ApexLegends['fichas'][i].habilidaddefinitiva;
+
+
+          ficha.appendChild(miH4);
+          ficha.appendChild(imagen);
+          ficha.appendChild(miPara1);
+          ficha.appendChild(miPara2);
+          ficha.appendChild(miPara3);
+          ficha.appendChild(miPara4);
+          ficha.appendChild(miPara5);
+          ficha.appendChild(miPara6);
+          ficha.appendChild(miPara7);
+          ficha.appendChild(miPara8);
+
+
+          section.appendChild(ficha);
+        }
+      }
+
+    </script>
+  </body>
+</html>

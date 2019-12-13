@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'verdana', sans-serif;
+  font-style: italic;
+  src: url(https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2);
+
+}
+
+body{
+	font-family: Britannic bol ;
+	font-style:  ;
+	text-align: center;
+	color: #2F4F4F;
+	background-color: #E6E6FA;
+	width: 1000px;
+	margin: 0 auto;
+
+}
+
+h1,h3{
+	font-family: 'Roboto', stencil ;
+	font-style: ;
+}
+h1{
+
+  font-size: 5rem;
+  text-align: center;
+  color: #8B0000;
+}
+
+h3{
+	font-size: 3rem;
+	letter-spacing: 2px;
+	margin-bottom: 10px;
+  text-align: center;
+  color: #8B0000;
+}
+
+h4{
+	font-size: 1.7rem;
+	letter-spacing: -2px;
+	margin-bottom: 10px;
+  text-align: center;
+  color: black;
+  font-family: Britannic Bold ;
+}
+
+header p{
+	font-size: 2.5rem;
+	font-weight: bold;
+	text-align: center;
+  color: #A52A2A;
+
+}
+
+section article{
+	width: 100%;
+	float: center;
+}
+section p{
+	font-family: 'verdana';
+	margin: 10px 0;
+  text-align: justify;
+}
+
+section ul{
+	font-family: 'Amaranth', verdana;
+	margin-top: 0;
+}

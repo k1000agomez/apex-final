@@ -1,0 +1,83 @@
+{
+  "title":"APEX",
+  "personajes":"- LEGENDS -",
+  "fichas":[
+    {
+      "urlImagen":"bangalore.png",
+      "nombre":"Bangalore",
+      "descripcion":"Soldado profesional",
+      "historia":"Nacida en el seno de una familia militar donde ella, sus padres y sus 4 hermanos mayores sirvieron en las Fuerzas Armadas de IMC, Bangalore ha sido una soldado excepcional desde muy joven. Fue la primera de su promoción en la Academia Militar de IMC y la única cadete capaz de desensamblar una Peacekeeper, equiparlo con un estrangulador de precisión y volver a montarlo en menos de 20 segundos... con los ojos vendados. Hace 3 años, Anita y su hermano Jackson recibieron la orden de recuperar una flota mercenaria de las Tierras Salvajes para ayudar en la lucha de IMC contra la Milicia. Sin embargo, su unidad perdió el contacto con el cuartel general de IMC y cayó en una emboscada al llegar. El pelotón se dispersó, pero Jackson resistió para dar a su hermana tiempo de escapar. Sola y sin forma de volver a casa, Anita aplicó su adiestramiento, grandes conocimientos sobre armas y espíritu combativo uniéndose a los Juegos Apex. Ahora combate para ahorrar dinero con que comprar un pasaje de vuelta a la base de IMC, donde espera reunirse con lo que queda de su familia.",
+      "nombrereal":"Nombre Real: Anita Williams",
+      "edad":"Edad: 35",
+      "planetanatal":"Planeta Natal: Gridiron",
+      "habilidadtactica":"Habilidad Tactica: Lanzahumo",
+      "habilidadpasiva":"Habilidad Pasiva: Paso ligero",
+      "habilidaddefinitiva":"Habilidad Definitiva: Retumbar del trueno"
+
+    },
+    {
+      "urlImagen":"bloodhound.png",
+      "nombre":"Bloodhound",
+      "descripcion":"Rastreadora tecnológica",
+      "historia":"Bloodhound es conocida en las Tierras Salvajes por ser una de las mejores cazadoras de la Frontera... y básicamente eso es todo lo que se sabe de ella. Su identidad es un misterio rodeado de rumores: que si es increíblemente rica, una asesina implacable, que si susurra a los titanes Goliat, que si es una antigua esclava, medio murciélago y muchas cosas más, dependiendo de a quién se pregunte. Lo único que se sabe es que es una rival temible en los Juegos Apex. Sus habilidades incomparables como rastreadora son una auténtica bendición para su equipo, y le permiten revelar contrincantes ocultos y seguir los movimientos del enemigo. Bloodhound invoca a los antiguos dioses vikingos de la Tierra, y cree que el destino es un camino ya marcado que conduce a todos a su muerte. Pero de saber esto ella saca su fuerza, porque hasta que llegue ese día, Bloodhound sabe que nada podrá detenerla.",
+      "nombrereal":"Nombre Real: Desconocido",
+      "edad":"Edad: Desconocido",
+      "planetanatal":"Planeta Natal: Desconocido",
+      "habilidadtactica":"Habilidad Tactica: Ojo omnisciente",
+      "habilidadpasiva":"Habilidad Pasiva: Rastreadora",
+      "habilidaddefinitiva":"Habilidad Definitiva: Bestia cazadora"
+
+    },
+    {
+      "urlImagen":"caustic.png",
+      "nombre":"Caustic",
+      "descripcion":"Trampero tóxico",
+      "historia":"Antes de la aparición de Caustic, había un científico llamado Alexander Nox que trabajaba en Humbert Labs, el principal fabricante de gases pesticidas de la Frontera. Con la necesidad de grandes cantidades de estos productos para proteger los cada vez más extensos cultivos de los colonos de la Frontera, en Humbert Labs se investigaba constantemente en busca de fórmulas mejores y más potentes. Nox era uno de sus científicos más brillantes, y trabajaba día y noche en el desarrollo de nuevos gases. Pero para asegurarse de que funcionaban, necesitaba probarlos en algo más que en simple tejido inerte. Necesitaba algo vivo. Mientras trabajaba incansablemente en secreto, Nox empezó a ver belleza en sus creaciones y en su capacidad de destruir todo lo que tocaban. Pero el director de Humbert Labs pronto descubrió sus horripilantes experimentos, y el consecuente enfrentamiento terminó con el laboratorio en llamas y con su jefe cadáver. Hoy, Nox está desaparecido, supuestamente muerto. Caustic, mientras tanto, ha encontrado nuevos sujetos de prueba en los Juegos Apex, donde experimenta con sus creaciones gaseosas y observa sus efectos con gran interés..",
+      "nombrereal":"Nombre Real: Alexander Nox",
+      "edad":"Edad: 48",
+      "planetanatal":"Planeta Natal: Gaea",
+      "habilidadtactica":"Habilidad Tactica: Trampa de gas Nox",
+      "habilidadpasiva":"Habilidad Pasiva: Visión Nox",
+      "habilidaddefinitiva":"Habilidad Definitiva: Granada de gas Nox"
+
+    },
+    {
+      "urlImagen":"gibraltar.png",
+      "nombre":"Gibraltar",
+      "descripcion":"Fortaleza escudada",
+      "historia":"Gibraltar es un gigante amable con un lado rebelde. Hijo de 2 voluntarios de la SARAS (Sociedad de Auxilio, Rescate, Acogida y Salvamento), siempre se le ha dado bien sacar a otros de las situaciones comprometidas, frecuentes en las Tierras Salvajes. Sin embargo, solo empezó a comprender el valor de proteger a los demás cuando él y su novio cogieron a escondidas la moto de su padre, salieron con ella a divertirse y quedaron atrapados por una letal avalancha de barro. Sus padres los rescataron, pero su padre perdió un brazo en el rescate. Gibraltar nunca olvidó este sacrificio y ahora dedica su vida a ayudar a la gente necesitada. Los Juegos Apex no cambiaron este aspecto de su personalidad, pero sí su significado. Muchos de los amigos y colegas de Gibraltar han competido en los juegos durante años para ganar más dinero, fama y gloria, y algunos nunca regresaron a casa. Gibraltar se unió para protegerlos y, por primera vez, sus habilidades como rescatador y su naturaleza rebelde se aunaron. Hoy se ha convertido en un icono de los Juegos Apex, arriesgándose en la línea de fuego para defender a su pelotón y haciendo huir a sus rivales.",
+      "nombrereal":"Nombre Real: Makoa Gibraltar",
+      "edad":"Edad: 30",
+      "planetanatal":"Planeta Natal: Solace",
+      "habilidadtactica":"Habilidad Tactica: Cúpula de protección",
+      "habilidadpasiva":"Habilidad Pasiva: Escudo de arma",
+      "habilidaddefinitiva":"Habilidad Definitiva: Bombardeo defensivo"
+
+    },
+    {
+      "urlImagen":"lifeline.png",
+      "nombre":"Lifeline",
+      "descripcion":"Médica de combate",
+      "historia":"Ajay Che, apodada Lifeline, no es la típica persona que esperarías encontrar en los Juegos Apex. Hija de unos ricos mercaderes de la guerra, huyó de casa cuando supo el daño que había provocado su familia y se alistó en el Cuerpo de Paz Fronterizo, una organización humanitaria que ayuda a las comunidades necesitadas de la Frontera. Desde entonces ha dedicado su vida a ayudar a los demás y se ha unido a los Juegos Apex para financiar el Cuerpo de Paz Fronterizo con sus ganancias. Dado que en los juegos nadie es inocente (todos saben qué hacen allí) y que cada una de sus victorias se traduce en ayuda para los necesitados, Lifeline no tiene problemas de conciencia por participar en este popular y cruento deporte. O, al menos, eso es lo que se dice a sí misma. Aunque parezca sarcástica y dura, en el fondo desea ayudar a la gente y hacer de este un mundo mejor. Y si eso significa tener que sacrificar a algunas personas, que así sea.",
+      "nombrereal":"Nombre Real: Ajay Che",
+      "edad":"Edad: 24",
+      "planetanatal":"Planeta Natal: Psamathe",
+      "habilidadtactica":"Habilidad Tactica: Dron médico DOC",
+      "habilidadpasiva":"Habilidad Pasiva: Médica de combate",
+      "habilidaddefinitiva":"Habilidad Definitiva: Pack de supervivencia"
+
+    },
+    {
+      "urlImagen":"mirage.png",
+      "nombre":"Mirage",
+      "descripcion":"Pícaro holográfico",
+      "historia":"Mirage es la típica persona a la que le gusta no pasar desapercibida. El menor de 4 hermanos, ha llevado a la perfección el arte de bromear para llamar la atención. Lo que sí se tomó muy en serio fue la tecnología de holopiloto. Su madre, ingeniera, le enseñó los entresijos de esta tecnología creadora de ilusiones, y Mirage se entregó al estudio de sus mecanismos hasta aprender todo lo que pudo sobre estos. Incluso después de que sus hermanos desaparecieran en combate durante la Guerra de la Frontera, Mirage y su madre siguieron desarrollando dispositivos holográficos, y el trabajo los unió. Cuando trabajaba como camarero para llegar a fin de mes, Mirage escuchó las increíbles historias de sus parroquianos sobre los Juegos Apex y de la fortuna y gloria que podían conseguirse ganando en estos. Pese a lo atractivo de la idea, sabía que no podía arriesgarse a dejar a su madre sin hijos, hasta que ella misma le regaló unos dispositivos holográficos personalizados y le animó a que persiguiera su sueño. Hoy es la salsa de los Juegos Apex, superando en ingenio a sus rivales y encandilando al público de las Tierras Salvajes.",
+      "nombrereal":"Nombre Real: Elliott Witt",
+      "edad":"Edad: 30",
+      "planetanatal":"Planeta Natal: Solace",
+      "habilidadtactica":"Habilidad Tactica: Desquiciar",
+      "habilidadpasiva":"Habilidad Pasiva: ¡Más!",
+      "habilidaddefinitiva":"Habilidad Definitiva: Desaparecer"
+    }
+  ]
+}
